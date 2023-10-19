@@ -1,0 +1,6 @@
+Nombres: César
+Apellidos: Sánchez
+Teléfono: 9671
+Estatura: 1.70
+Edad: 19
+Género: Hombre
